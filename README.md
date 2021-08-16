@@ -1,0 +1,2 @@
+# FauzanBot
+Wibu :v
