@@ -1,7 +1,7 @@
 #<p align="center">
-    <img src="https://telegra.ph/file/11afe8bcf630870e9ccb2.jpg" width="54%" height="50%" alt="Owner Agung-BOTZ"/>
+    <img src="https://telegra.ph/file/11afe8bcf630870e9ccb2.jpg" width="54%" height="50%" alt="Owner FauzanBotz"/>
     <br>
-    <a href="https://github.com/itsmegng"><img title="Owner" src="https://img.shields.io/badge/Creator-Nino-black?style=for-the-badge&logo=windows"></a>
+    <a href="https://github.com/FauzanBotz"><img title="Owner" src="https://img.shields.io/badge/Creator-Nino-black?style=for-the-badge&logo=windows"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -19,13 +19,13 @@
 | **IMAGEMAGICK** | [HERE](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ## Features
-| **cek disini** | [HERE](https://github.com/itsmegng/AgungID/blob/main/gng.js#L360) |
+| **cek disini** | [HERE](https://github.com/FauzanBotz/FauzanBotz/blob/main/Fauzan.js#L360) |
 | :---------------------------------------------: | :-----------: |
 
 ## Connect With Me
 <p align="center">
- <a href="https://instagram.com/fauzanbotz4"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6288286421519"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
- <a href="https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg"><img src="https://img.shields.io/badge/YouTube-GNG BOTZ?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg" />
+ <a href="https://instagram.com/fauzanbotz4"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/6289516004292"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://youtube.com/channel/UCZnor19gyF010anLraDWTTA"><img src="https://img.shields.io/badge/YouTube-GNG BOTZ?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCZnor19gyF010anLraDWTTA" />
  <a name=Agung-Id&label=VIEWS&style=flat-square&color=red"/>
 </p>
 
